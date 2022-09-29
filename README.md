@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mohuani)](https://github.com/mohuani/mohuani)
+<a href="https://github.com/mohuani">
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=mohuani&show_icons=true&theme=buefy" />
+</a>
+<a href="https://github.com/mohuani">
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohuani&layout=compact&show_icons=true&theme=buefy" />
+</a>
