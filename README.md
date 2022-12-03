@@ -22,13 +22,13 @@
 
 
 <a href="https://github.com/mohuani">
-  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=mohuani&show_icons=true&theme=buefy" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=mohuani&show_icons=true&theme=buefy" />
 </a>
 <a href="https://github.com/mohuani">
-  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohuani&layout=compact&show_icons=true&theme=buefy" />
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohuani&layout=compact&show_icons=true&theme=buefy" />
 </a>
 
 <p></p>
 
-<p><img align="center" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=mohuani&" alt="mohuani" /></p>
+<p><img align="center" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=mohuani&" alt="mohuani" /></p>
 
