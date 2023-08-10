@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohuani](https://github.com/mohuani)
 
-- 📝 I regularly write articles on [https://hexo.mohuani.xyz](https://hexo.mohuani.xyz)
+- 📝 I regularly write articles on [https://hexo.mohuani.top](https://hexo.mohuani.top)
 
 - 📫 How to reach me **wfk2975019671@sina.com**
 
