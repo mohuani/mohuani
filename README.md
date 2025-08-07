@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **go-zero**
+- 🌱 I’m currently learning [goframe](https://goframe.org/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohuani](https://github.com/mohuani)
 
